@@ -5,7 +5,7 @@ The easy way is to use is run main.exe
 I complied only windows 
 If you on mac or linux, you can complie it by yourself
 ```bash
-clang main.cpp -o main
+clang main.c -o main
 ```
 or 
 ```bash
